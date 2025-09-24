@@ -4,3 +4,5 @@ __pycache__
 .langgraph_api/
 deep_research_from_scratch.egg-info/
 *.pyc
+
+.venv

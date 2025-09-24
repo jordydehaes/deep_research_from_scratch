@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "env": ".env",
+  "graphs": {
+    "context_enhancement": "network_investigator.agents.context_enhancer:context_enhancement_workflow"
+  }
+}
